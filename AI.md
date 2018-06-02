@@ -1,5 +1,5 @@
 # AI JVP
-## The idea is to implement the entire data process, from the acquisition to the presentation, using AI method.
+>The idea is to implement the entire data process, from the acquisition to the presentation, using AI method.
 Starting from the patient recognition, patient name acquisition, pixel size calculation and ROI defnrion,
 all by using direct camera acquired images.
 
